@@ -19,5 +19,5 @@ function add2(n) {
 }
 {
   const two=2;
-  return two+2;
+  return n+two;
 }
